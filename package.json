@@ -1,0 +1,24 @@
+{
+  "name": "components_jscourse_18082017",
+  "version": "1.0.0",
+  "description": "Learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "./node_modules/.bin/static ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekseverinets/components_JSCourse.git"
+  },
+  "author": "Evgeniya Severinets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekseverinets/components_JSCourse/issues"
+  },
+  "homepage": "https://github.com/ekseverinets/components_JSCourse#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "node-static": "^0.7.10"
+  }
+}
